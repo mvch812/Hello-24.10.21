@@ -1,0 +1,16 @@
+C:\Users\Maks\OneDrive\Документы\Программирование С#\Hello\bin\Debug\net6.0\Hello.exe
+C:\Users\Maks\OneDrive\Документы\Программирование С#\Hello\bin\Debug\net6.0\Hello.deps.json
+C:\Users\Maks\OneDrive\Документы\Программирование С#\Hello\bin\Debug\net6.0\Hello.runtimeconfig.json
+C:\Users\Maks\OneDrive\Документы\Программирование С#\Hello\bin\Debug\net6.0\Hello.dll
+C:\Users\Maks\OneDrive\Документы\Программирование С#\Hello\bin\Debug\net6.0\ref\Hello.dll
+C:\Users\Maks\OneDrive\Документы\Программирование С#\Hello\bin\Debug\net6.0\Hello.pdb
+C:\Users\Maks\OneDrive\Документы\Программирование С#\Hello\obj\Debug\net6.0\Hello.GlobalUsings.g.cs
+C:\Users\Maks\OneDrive\Документы\Программирование С#\Hello\obj\Debug\net6.0\Hello.csproj.AssemblyReference.cache
+C:\Users\Maks\OneDrive\Документы\Программирование С#\Hello\obj\Debug\net6.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maks\OneDrive\Документы\Программирование С#\Hello\obj\Debug\net6.0\Hello.AssemblyInfoInputs.cache
+C:\Users\Maks\OneDrive\Документы\Программирование С#\Hello\obj\Debug\net6.0\Hello.AssemblyInfo.cs
+C:\Users\Maks\OneDrive\Документы\Программирование С#\Hello\obj\Debug\net6.0\Hello.csproj.CoreCompileInputs.cache
+C:\Users\Maks\OneDrive\Документы\Программирование С#\Hello\obj\Debug\net6.0\Hello.dll
+C:\Users\Maks\OneDrive\Документы\Программирование С#\Hello\obj\Debug\net6.0\ref\Hello.dll
+C:\Users\Maks\OneDrive\Документы\Программирование С#\Hello\obj\Debug\net6.0\Hello.pdb
+C:\Users\Maks\OneDrive\Документы\Программирование С#\Hello\obj\Debug\net6.0\Hello.genruntimeconfig.cache
